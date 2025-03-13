@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @73Ictf
+- 👀 I’m interested in Malware, and Blockchain activity.
+- 🌱 I’m currently learning Golang.
+- 📫 You can reach me at: evading[at]glowi[.]es
+- 😄 Pronouns: Well you can use them like they're, there and their.
+- ⚡ Fun fact: Well a fun fact would be that...
