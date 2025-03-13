@@ -4,3 +4,4 @@
 - 📫 You can reach me at: evading[at]glowi[.]es
 - 😄 Pronouns: Well you can use them like they're, there and their.
 - ⚡ Fun fact: Well a fun fact would be that...
+- 😎 I reverse malware and other software ofc.
